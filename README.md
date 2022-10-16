@@ -27,3 +27,7 @@ step:5
 pip install confluent_kafka
 ---
 
+
+Output From Kafka(confluent_cloud)
+
+![image](https://user-images.githubusercontent.com/71430815/196027783-cbf0e2b6-3f8f-4d94-accc-b039ce2b91b9.png)
